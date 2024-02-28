@@ -1,5 +1,1 @@
-public class moses {
-    public static void main(String[] args) {
-        // Your code here
-    }
-}
+console.log("Hello, world!");
